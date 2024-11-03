@@ -13,3 +13,5 @@ Pertemuan 6, 14 Oktober 2024. Topik: Pemodelan matematika dalam domain frekuensi
 Pertemuan 7, 21 Oktober 2024. Topik: Pemodelan matematika dalam domain waktu --> Lec4
 
 Pertemuan 8, 28 Oktober 2024. UJIAN TENGAH SEMESTER (UTS)
+
+Pertemuan 9, 4 November 2024. Topik: Diagram blok  --> Lec5
