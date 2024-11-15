@@ -14,4 +14,6 @@ Pertemuan 7, 21 Oktober 2024. Topik: Pemodelan matematika dalam domain waktu -->
 
 Pertemuan 8, 28 Oktober 2024. UJIAN TENGAH SEMESTER (UTS)
 
-Pertemuan 9, 4 November 2024. Topik: Diagram blok  --> Lec5
+Pertemuan 9, 4 November 2024. Libur perkuliahan (Pelantikan ORMAWA) 
+
+Pertemuan 10, 11 November 2024. Topik: Diagram blok  --> Lec5
