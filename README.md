@@ -17,3 +17,9 @@ Pertemuan 8, 28 Oktober 2024. UJIAN TENGAH SEMESTER (UTS)
 Pertemuan 9, 4 November 2024. Libur perkuliahan (Pelantikan ORMAWA) 
 
 Pertemuan 10, 11 November 2024. Topik: Diagram blok  --> Lec5
+
+Pertemuan 11, 18 November 2024. Topik: Respon transient  --> silahkan merujuk ke referensi buku "Control System Engineering"
+
+Pertemuan 12, 25 November 2024. Topik: Kestabilan  --> Lec7
+
+Pertemuan 13, 2 Desember 2024. Topik: Kesalahan keadaan tunak  --> Lec8
